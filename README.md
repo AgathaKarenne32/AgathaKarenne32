@@ -2,7 +2,7 @@
 
   <h1 align="center">
     Olá! Eu sou 
-    <a href="https://www.linkedin.com/in/agatha-machado-5a2624277/">Agatha Karenne</a>
+    <a href="https://www.linkedin.com/in/agathamachado32">Agatha Karenne</a>
   </h1>
   
   <p align="center">
@@ -39,7 +39,7 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/agatha-machado-5a2624277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/agathamachado32" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:agathakarenne5@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
