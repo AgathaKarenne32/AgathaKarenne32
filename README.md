@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/AgathaKarenne32">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enriconunes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriconunes&theme=dracula&hide_border=false&&layout=compact&hide=python"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agathakarenne32&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathakarenne32&theme=dracula&hide_border=false&&layout=compact&hide=python"/>
   </a>
 </div>
 
