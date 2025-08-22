@@ -6,11 +6,11 @@
   </h1>
   
   <p align="center">
-    Sou estudante do quarto semestre de Engenharia de Software na Universidade Católica de Brasília e também curso o técnico em Defesa Cibernética na FIAP. Com um ano de experiência acadêmica e prática, atuo como Desenvolvedora Web Freelancer.
+    Sou estudante do quinto semestre de Engenharia de Software na Universidade Católica de Brasília. Com dois anos de experiência acadêmica e prática, atuo como Desenvolvedora Low Code e Full Stack.
     
     Algumas das minhas habilidades técnicas incluem:
-    - TypeScript, Node.js e React
-    - Desenvolvimento em PHP, Java, Python, C e Git/GitHub
+    - JavaScript, React, Html, Css, PL/SQL e SQL;
+    - Desenvolvimento em PHP, Java, PL/SQL, C e Git/GitHub
     - Criação de sites com WordPress associado ao PHP
   </p>
   
