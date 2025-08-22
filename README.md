@@ -9,7 +9,7 @@
     Sou estudante do quinto semestre de Engenharia de Software na Universidade Católica de Brasília. Com dois anos de experiência acadêmica e prática, atuo como Desenvolvedora Low Code e Full Stack.
     
     Algumas das minhas habilidades técnicas incluem:
-    - JavaScript, React, Html, Css, PL/SQL e SQL;
+    - JavaScript, Node.js, React, Html, Css, PL/SQL e SQL;
     - Desenvolvimento em PHP, Java, Python, PL/SQL, C e Git/GitHub
     - Criação de sites com WordPress associado ao PHP
   </p>
