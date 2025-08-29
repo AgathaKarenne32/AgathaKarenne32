@@ -1,0 +1,38 @@
+# Nome do Workflow que aparecerá na aba "Actions" do GitHub
+name: GitHub Profile Summary Cards
+
+# Define os gatilhos que iniciarão o workflow
+on:
+  # Roda automaticamente de acordo com uma agenda (cron)
+  # Esta configuração roda todo dia à meia-noite (UTC)
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Permite que você rode este workflow manualmente a qualquer momento
+  workflow_dispatch:
+
+# Define os trabalhos (jobs) que o workflow executará
+jobs:
+  build:
+    # O tipo de máquina virtual que o trabalho rodará
+    runs-on: ubuntu-latest
+
+    # Define as permissões para o GITHUB_TOKEN neste job
+    # A permissão 'contents: write' é necessária para que a action
+    # possa fazer commit dos cartões gerados no seu repositório.
+    permissions:
+      contents: write
+
+    # Passos que serão executados sequencialmente
+    steps:
+      # 1. Faz o "checkout" do seu repositório para que o workflow possa acessá-lo
+      - uses: actions/checkout@v4
+
+      # 2. Roda a action que gera os cartões de resumo do perfil
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # O GITHUB_TOKEN é um segredo fornecido automaticamente pelo GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Nome de usuário do GitHub
+          USERNAME: AgathaKarenne32
