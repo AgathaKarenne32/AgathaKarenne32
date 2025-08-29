@@ -2,8 +2,8 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *" # atualiza todo dia à meia-noite (UTC)
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
@@ -15,6 +15,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: AgathaKarenne32
-
-
-

@@ -1,26 +1,43 @@
 <h1 align="center">
   Olá! Eu sou 
-  <a href="https://www.linkedin.com/in/agathamachado32">Agatha Karenne</a>
+  <a href="https://www.linkedin.com/in/agathamachado32">Agatha Karenne</a> 👋
 </h1>
 
 <p align="center">
-  Estudante do 5º semestre de Engenharia de Software na Universidade Católica de Brasília. 
-  Desenvolvedora Low Code e Full Stack apaixonada por tecnologia 🚀
+  🎓 Estudante do 5º semestre de <strong>Engenharia de Software</strong> na <strong>Universidade Católica de Brasília</strong><br>
+  💻 Desenvolvedora <strong>Low Code</strong> e <strong>Full Stack</strong><br>
+  🚀 Apaixonada por tecnologia, inovação e desafios
 </p>
 
 ---
 
-### 💻 Tecnologias
-- JavaScript, Node.js, React, HTML, CSS, PL/SQL e SQL  
-- Desenvolvimento em PHP, Java, Python, C e Git/GitHub  
-- Criação de sites com WordPress associado ao PHP  
+### 💻 Tecnologias e Habilidades
+- **Linguagens:** JavaScript, Python, Java, PHP, C  
+- **Web:** Node.js, React, HTML, CSS  
+- **Banco de Dados:** SQL, PL/SQL  
+- **Ferramentas:** Git/GitHub, WordPress + PHP  
+- **Outros:** Experiência com desenvolvimento Low Code
 
 ---
 
 ### 📊 Estatísticas do GitHub
+
+<div align="center">
 
 ![](https://raw.githubusercontent.com/AgathaKarenne32/AgathaKarenne32/master/profile-summary-card-output/dracula/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/AgathaKarenne32/AgathaKarenne32/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/AgathaKarenne32/AgathaKarenne32/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/AgathaKarenne32/AgathaKarenne32/master/profile-summary-card-output/dracula/3-stats.svg)
 ![](https://raw.githubusercontent.com/AgathaKarenne32/AgathaKarenne32/master/profile-summary-card-output/dracula/4-productive-time.svg)
+
+
+</div>
+
+---
+
+### 📫 Contato
+<p align="center">
+  <a href="mailto:agathamachado5@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/agathamachado32"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AgathaKarenne32"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
