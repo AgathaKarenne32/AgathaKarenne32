@@ -24,6 +24,8 @@
 
 ![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula)
 
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaKarenne32&layout=compact&theme=dracula)
+
 ### 📫 Contato
 <p align="center">
   <a href="mailto:agathamachado5@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
