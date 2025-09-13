@@ -22,6 +22,7 @@
 
 ### 📊 Estatísticas do GitHub
 
+![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula)
 
 ### 📫 Contato
 <p align="center">
