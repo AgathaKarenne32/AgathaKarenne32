@@ -12,11 +12,11 @@
 ---
 
 ### 💻 Tecnologias e Habilidades
-- **Linguagens:** JavaScript, Python, Java, PHP, C  
+- **Linguagens:** JavaScript, Python, Java, PHP, C, TypeScript
 - **Web:** Node.js, React, HTML, CSS  
-- **Banco de Dados:** SQL, PL/SQL  
+- **Banco de Dados:** SQL, PL/SQL, SQL Server  
 - **Ferramentas:** Git/GitHub, WordPress + PHP  
-- **Outros:** Experiência com desenvolvimento Low Code
+- **Outros:** Experiência com desenvolvimento Low Code e Full Stack
 
 ---
 
