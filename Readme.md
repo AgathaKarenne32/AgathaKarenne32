@@ -22,9 +22,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaKarenne32&layout=compact&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaKarenne32&layout=compact&theme=dracula)
 
 ### 📫 Contato
 <p align="center">
