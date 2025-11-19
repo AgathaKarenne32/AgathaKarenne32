@@ -23,7 +23,7 @@
 ### 🚀 Projetos em Destaque
 
 #### **[Projeto Mercado - FrontEnd](github.com/maisprati-eng/projeto-mercado-frontend)**
-#### **[Projeto Mercado - BackeEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
+#### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
 
 
 ### 📊 Estatísticas do GitHub
