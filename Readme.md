@@ -20,6 +20,12 @@
 
 ---
 
+### 🚀 Projetos em Destaque
+
+#### **[Projeto Mercado - FrontEnd](github.com/maisprati-eng/projeto-mercado-frontend)**
+#### **[Projeto Mercado - BackeEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
+
+
 ### 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula)
