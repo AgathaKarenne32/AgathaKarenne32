@@ -13,8 +13,8 @@
 
 ### 💻 Tecnologias e Habilidades
 - **Linguagens:** JavaScript, Python, Java, PHP, C, TypeScript
-- **Web:** Node.js, React, HTML, CSS  
-- **Banco de Dados:** SQL, PL/SQL, SQL Server  
+- **Web:** Node.js, React, HTML, CSS, BootStrap
+- **Banco de Dados:** SQL, PL/SQL, SQL Server, MySQL, PostgreSQL 
 - **Ferramentas:** Git/GitHub, WordPress + PHP  
 - **Outros:** Experiência com desenvolvimento Low Code e Full Stack
 
