@@ -26,7 +26,7 @@
 #### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
 
 
-### 📊 Estatísticas do GitHub
+
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula)
 
