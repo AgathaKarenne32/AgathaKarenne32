@@ -20,10 +20,15 @@
 
 ---
 
-### 🚀 Projeto Atual
+### 🚀 Projetos Atuais
 
 #### **[Projeto Mercado - FrontEnd](https://github.com/maisprati-eng/projeto-mercado-frontend)**
 #### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
+
+#### **[Projeto CallQuality - BackEnd&Banco de dados](https://https://github.com/AgathaKarenne32/CallQuality)**
+#### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
+
+
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaKarenne32&layout=compact&theme=dracula)
 
