@@ -25,8 +25,8 @@
 #### **[Projeto Mercado - FrontEnd](https://github.com/maisprati-eng/projeto-mercado-frontend)**
 #### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
 
-#### **[Projeto CallQuality - BackEnd&Banco de dados](https://https://github.com/AgathaKarenne32/CallQuality)**
-#### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
+#### **[Projeto CallQuality - BackEnd & Banco de dados](https://github.com/AgathaKarenne32/CallQuality)**
+#### **[Projeto CallQuality-Web - FronEnd](https://github.com/AgathaKarenne32/CallQuality-Web)**
 
 
 
