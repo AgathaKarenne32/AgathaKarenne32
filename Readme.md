@@ -29,7 +29,7 @@
 #### **[Projeto CallQuality-Web - FronEnd](https://github.com/AgathaKarenne32/CallQuality-Web)**
 
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaKarenne32&layout=compact&theme=dracula&include_forks=true&hide_border=true&langs_count=8)
+![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=AgathaKarenne32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ### 📫 Contato
 <p align="center">
