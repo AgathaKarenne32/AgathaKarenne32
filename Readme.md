@@ -11,6 +11,8 @@
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgathaKarenne32&theme=dracula&hide_border=true)
+
 ### 💻 Tecnologias e Habilidades
 - **Linguagens:** JavaScript, Python, Java, PHP, C, TypeScript
 - **Web:** Node.js, React, HTML, CSS, BootStrap
@@ -28,8 +30,6 @@
 #### **[Projeto CallQuality - BackEnd & Banco de dados](https://github.com/AgathaKarenne32/CallQuality)**
 #### **[Projeto CallQuality-Web - FronEnd](https://github.com/AgathaKarenne32/CallQuality-Web)**
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaKarenne32&layout=compact&theme=dracula&card_width=400)
 
 ### 📫 Contato
 <p align="center">
