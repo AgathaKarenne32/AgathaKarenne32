@@ -17,20 +17,21 @@
 
 ### 👩‍💻 Sobre Mim
 
-Sou estudante do **5º semestre de Engenharia de Software** na Universidade Católica de Brasília. Meu foco atual é construir aplicações robustas utilizando arquitetura de microsserviços e interfaces modernas.
+Sou estudante do **5º semestre de Engenharia de Software** na Universidade Católica de Brasília. Minha jornada vai do **Low Code** ao **High Code**, sempre focada em resolver problemas reais de forma eficiente.
 
-- 🔭 Atualmente finalizando o projeto **CallQuality AI**.
-- 🌱 Estudando profundamente **Spring Security**, **JWT** e **Integração com LLMs**.
-- ⚡ Adoro transformar problemas complexos em código limpo e documentado.
+- 🔭 Atualmente finalizando o projeto **CallQuality AI** (SaaS Enterprise).
+- 🌱 Aprofundando em **Arquitetura de Software** e **Segurança (Spring Security)**.
+- ⚡ Tenho facilidade em transitar entre diferentes stacks e bancos de dados.
 
 ---
 
 ### 🛠️ Arsenal Tecnológico
 
-| **Backend** | **Frontend** | **Data & DevOps** |
+| **Backend & Linguagens** | **Frontend & Web** | **Banco de Dados & Infra** |
 | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/sql_server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) |
 
 ---
 
