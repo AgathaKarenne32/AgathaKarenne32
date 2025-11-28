@@ -75,6 +75,24 @@ Sou estudante do **5º semestre de Engenharia de Software** na Universidade Cat�
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaKarenne32&theme=dracula&hide_border=true&date_format=d%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AgathaKarenne32&theme=dracula&hide_border=true&date_format=d%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" />
 </div>
+
+<br />
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:agathamachado5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/agathamachado32">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AgathaKarenne32">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
