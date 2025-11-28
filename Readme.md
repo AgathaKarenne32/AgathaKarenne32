@@ -19,9 +19,9 @@
 
 Sou estudante do **5º semestre de Engenharia de Software** na Universidade Católica de Brasília. Meu foco atual é construir aplicações robustas utilizando arquitetura de microsserviços e interfaces modernas.
 
-- 🔭 Atualmente trabalhando no projeto **CallQuality AI**.
-- 🌱 Estudando profundamente **Spring Security** e **Arquitetura de Software**.
-- ⚡ Adoro transformar problemas complexos em código limpo.
+- 🔭 Atualmente finalizando o projeto **CallQuality AI**.
+- 🌱 Estudando profundamente **Spring Security**, **JWT** e **Integração com LLMs**.
+- ⚡ Adoro transformar problemas complexos em código limpo e documentado.
 
 ---
 
@@ -38,36 +38,38 @@ Sou estudante do **5º semestre de Engenharia de Software** na Universidade Cat�
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📞 CallQuality AI</h3>
       <div align="center">
         <a href="https://github.com/AgathaKarenne32/CallQuality">Backend</a> | 
         <a href="https://github.com/AgathaKarenne32/CallQuality---frontend">Frontend</a>
       </div>
       <br />
-      Sistema de auditoria para Call Centers com Inteligência Artificial.
+      Sistema SaaS Enterprise para auditoria de Call Centers com Inteligência Artificial.
       <br /><br />
       <ul>
         <li>☕ <strong>Java 21 + Spring Boot 3</strong></li>
-        <li>🧠 Integração com <strong>Groq AI (Llama 3)</strong></li>
-        <li>🔒 Segurança JWT e RBAC</li>
-        <li>📊 Dashboard React com KPIs reais</li>
+        <li>🧠 Integração real com <strong>Groq AI (Llama 3)</strong></li>
+        <li>🔒 Segurança com <strong>JWT e Spring Security</strong></li>
+        <li>📊 Dashboard React com gráficos e KPIs reais</li>
+        <li>🐳 Infraestrutura Dockerizada</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🛒 Projeto Mercado</h3>
       <div align="center">
         <a href="https://github.com/maisprati-eng/projeto-mercado-backend">Backend</a> | 
         <a href="https://github.com/maisprati-eng/projeto-mercado-frontend">Frontend</a>
       </div>
       <br />
-      Plataforma completa de gestão de varejo e estoque.
+      Plataforma completa de gestão de varejo e controle de estoque.
       <br /><br />
       <ul>
         <li>💻 <strong>Full Stack Development</strong></li>
-        <li>📦 Controle de Estoque</li>
-        <li>👥 Gestão de Usuários</li>
-        <li>🎨 Interface Responsiva</li>
+        <li>📦 Controle de Estoque em Tempo Real</li>
+        <li>👥 Gestão de Usuários e Permissões</li>
+        <li>🎨 Interface Responsiva e Moderna</li>
+        <li>🔗 API RESTful Documentada</li>
       </ul>
     </td>
   </tr>
@@ -75,24 +77,11 @@ Sou estudante do **5º semestre de Engenharia de Software** na Universidade Cat�
 
 ---
 
----
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AgathaKarenne32&theme=dracula&hide_border=true&date_format=d%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br />
-
-### 📫 Contato
-
-<p align="center">
+  <br />
+  <p>Construindo o futuro, uma linha de código por vez. 🚀</p>
+  <br />
   <a href="mailto:agathamachado5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fale%20Comigo-Agatha-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/agathamachado32">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AgathaKarenne32">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
