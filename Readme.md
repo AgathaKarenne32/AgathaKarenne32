@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaKarenne32&theme=dracula&hide_border=true&date_format=d%20M%5B%20Y%5D" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgathaKarenne32&theme=dracula&hide_border=true&date_format=d%20M%5B%20Y%5D)
 </div>
 
 ---
