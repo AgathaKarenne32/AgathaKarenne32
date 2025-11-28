@@ -1,48 +1,57 @@
-<h1 align="center">
-  Olá! Eu sou 
-  <a href="https://www.linkedin.com/in/agathamachado32">Agatha Karenne</a> 👋
-</h1>
+<h1 align="center">Olá! Eu sou Agatha Karenne 👋</h1>
 
 <p align="center">
-  🎓 Estudante do 5º semestre de <strong>Engenharia de Software</strong> na <strong>Universidade Católica de Brasília</strong><br>
-  💻 Desenvolvedora <strong>Low Code</strong> e <strong>Full Stack</strong><br>
-  🚀 Apaixonada por tecnologia, inovação e desafios
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Engenharia+de+Software;Java+%2B+Spring+Boot;React+%2B+Tailwind;Low+Code+%26+Full+Stack" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  🎓 Estudante do 5º semestre na <strong>Universidade Católica de Brasília</strong><br>
+  🚀 Focada em criar soluções escaláveis com arquitetura limpa
 </p>
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgathaKarenne32&theme=dracula&hide_border=true)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AgathaKarenne32&theme=dracula&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Agatha-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Agatha-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Agatha-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Agatha-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Agatha-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Agatha-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-### 💻 Tecnologias e Habilidades
-- **Linguagens:** JavaScript, Python, Java, PHP, C, TypeScript
-- **Web:** Node.js, React, HTML, CSS, BootStrap
-- **Banco de Dados:** SQL, PL/SQL, SQL Server, MySQL, PostgreSQL 
-- **Ferramentas:** Git/GitHub, WordPress + PHP  
-- **Outros:** Experiência com desenvolvimento Low Code e Full Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Projetos Atuais
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaKarenne32&theme=dracula&hide_border=true&date_format=d%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
-#### **[Projeto Mercado - FrontEnd](https://github.com/maisprati-eng/projeto-mercado-frontend)**
-#### **[Projeto Mercado - BackEnd](https://github.com/maisprati-eng/projeto-mercado-backend)**
+---
 
-#### **[Projeto CallQuality - BackEnd & Banco de dados](https://github.com/AgathaKarenne32/CallQuality)**
-#### **[Projeto CallQuality-Web - FronEnd](https://github.com/AgathaKarenne32/CallQuality-Web)**
+### 🚀 Projetos em Destaque
 
+| Projeto | Stack | Descrição |
+| :--- | :--- | :--- |
+| **[CallQuality AI](https://github.com/AgathaKarenne32/CallQuality)** | `Java` `Spring` `AI` | Backend de auditoria de qualidade com **integração Groq/Llama 3**, autenticação JWT e processamento assíncrono. |
+| **[CallQuality Web](https://github.com/AgathaKarenne32/CallQuality---frontend)** | `React` `Tailwind` | Dashboard interativo para gestão de QA, com gráficos dinâmicos, player de áudio e relatórios CSV. |
+| **[Projeto Mercado](https://github.com/maisprati-eng/projeto-mercado-backend)** | `Full Stack` | Sistema completo de gestão de mercado (Backend + Frontend). |
 
-### 📫 Contato
+---
+
+### 📫 Vamos conectar?
+
 <p align="center">
-  <a href="mailto:agathamachado5@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/agathamachado32"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AgathaKarenne32"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/agathamachado32">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:agathamachado5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
